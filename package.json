@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "stackblitz": {
-    "startCommand": "npm start && npm run dev"
+    "startCommand": "npm run dev"
   },
   "dependencies": {
     "react": "^19.0.0",
